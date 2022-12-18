@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
+Solarsystem jinny=new Solarsystem();
 
-        System.out.println("The basic structure is ready please write down the code and run it ");
     }
 }
